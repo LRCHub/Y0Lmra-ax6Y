@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "hazel",
+  "base_artist": "mol-74",
+  "createdAt": "2026-02-23T07:23:24.318263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slow Fast Hazel",
+      "artist": "Stereolab",
+      "has_synced": false,
+      "path": "select/01_Slow_Fast_Hazel_Stereolab.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hazel St",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/02_Hazel_St_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hazel",
+      "artist": "Junior Boys",
+      "has_synced": true,
+      "path": "select/03_Hazel_Junior_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hazel Eyes, I Will Lead You",
+      "artist": "Josephine Foster",
+      "has_synced": true,
+      "path": "select/04_Hazel_Eyes,_I_Will_Lead_You_Josephine_Foster.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hazel Would",
+      "artist": "Starflyer 59",
+      "has_synced": false,
+      "path": "select/05_Hazel_Would_Starflyer_59.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/06_Behind_These_Hazel_Eyes_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes - Joe Bermudez & Josh Harris Mixshow Edit",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/07_Behind_These_Hazel_Eyes_-_Joe_Bermudez_&_Josh_Harris_Mixshow_Edit_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes (Joe Bermudez & Josh Harris Mixshow Edit)",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/08_Behind_These_Hazel_Eyes_(Joe_Bermudez_&_Josh_Harris_Mixshow_Edit)_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes - Joe Bermudez & Josh Harris Mixshow Remix",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/09_Behind_These_Hazel_Eyes_-_Joe_Bermudez_&_Josh_Harris_Mixshow_Remix_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes (Joe Bermudez & Josh Harris Mixshow Remix)",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/10_Behind_These_Hazel_Eyes_(Joe_Bermudez_&_Josh_Harris_Mixshow_Remix)_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes - Joe Bermudez & Josh Harris Top 40 Radio Remix",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/11_Behind_These_Hazel_Eyes_-_Joe_Bermudez_&_Josh_Harris_Top_40_Radio_Remix_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Behind These Hazel Eyes (Top 40 Radio Remix)",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/12_Behind_These_Hazel_Eyes_(Top_40_Radio_Remix)_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hazel",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/13_Hazel_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hazel Eyes",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/14_Hazel_Eyes_The_Darkness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "hazel",
+      "artist": "mol-74",
+      "has_synced": false,
+      "path": "select/pl_01_hazel_mol-74.txt"
+    }
+  ]
+}
